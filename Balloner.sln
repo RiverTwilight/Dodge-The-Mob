@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balloner", "Balloner.csproj", "{D2109730-14A8-4544-ADE2-9EE028E28148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2109730-14A8-4544-ADE2-9EE028E28148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2109730-14A8-4544-ADE2-9EE028E28148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2109730-14A8-4544-ADE2-9EE028E28148}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{D2109730-14A8-4544-ADE2-9EE028E28148}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{D2109730-14A8-4544-ADE2-9EE028E28148}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{D2109730-14A8-4544-ADE2-9EE028E28148}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7169CA8-856E-4F5B-B423-D4DAE09E9613}
+	EndGlobalSection
+EndGlobal

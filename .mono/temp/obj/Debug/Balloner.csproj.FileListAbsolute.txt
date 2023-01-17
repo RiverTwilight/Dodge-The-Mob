@@ -1,0 +1,9 @@
+E:\Projects\Game\Godot\Balloner\.mono\temp\bin\Debug\Balloner.dll
+E:\Projects\Game\Godot\Balloner\.mono\temp\bin\Debug\Balloner.pdb
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.csproj.AssemblyReference.cache
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.AssemblyInfoInputs.cache
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.AssemblyInfo.cs
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.csproj.CoreCompileInputs.cache
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.dll
+E:\Projects\Game\Godot\Balloner\.mono\temp\obj\Debug\Balloner.pdb
